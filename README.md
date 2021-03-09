@@ -7,7 +7,14 @@
 ### Installation
 
 #### Easy Way
-[![Deploy](https://dashboard.heroku.com/new?button-url=android-app://org.telegram.messenger/&template=https://github.com/Animesh-941/Media-Search-bot/tree/master)
+* Deploy your Own With Heroku just click on deploy image 😉:
+
+<p align="center">
+
+   <a href = "https://dashboard.heroku.com/new?button-url=android-app%3A%2F%2Forg.telegram.messenger%2F&template=https%3A%2F%2Fgithub.com%2FPURHSHOTTAM%2FThe_GROUP_MANAGER%2Ftree%2Fmaster"><img src="https://telegra.ph/file/eb784f6f13ddc0efd2508.png" alt="Press to Takeoff" width="220px"></a>
+
+</p>
+<br>
 
 #### Watch this video to create bot - https://youtu.be/dsuTn4qV2GA
 
