@@ -7,14 +7,7 @@
 ### Installation
 
 #### Easy Way
-* Deploy your Own With Heroku just click on deploy image 😉:
-
-<p align="center">
-
-   <a href = "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FAnimesh-941%2FMedia-Search-bot&template=https%3A%2F%2Fgithub.com%Animesh-941%2FMedia-Search-bot"><img src="https://telegra.ph/file/eb784f6f13ddc0efd2508.png" alt="Press to Takeoff" width="220px"></a>
-
-</p>
-<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 #### Watch this video to create bot - https://youtu.be/dsuTn4qV2GA
 
